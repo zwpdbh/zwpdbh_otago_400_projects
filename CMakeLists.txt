@@ -6,4 +6,7 @@ set(SOURCE_FILES main.cpp)
 
 
 # cosc431 search xml
-add_executable(cosc431_searchXML cosc431_searchXML/main.cpp cosc431_searchXML/Vocabulary.cpp cosc431_searchXML/Vocabulary.h)
+add_executable(cosc431_searchXML cosc431_searchXML/main.cpp)
+
+# testground
+add_executable(testground testground/testground.cpp testground/mylib.cpp testground/mylib.h)

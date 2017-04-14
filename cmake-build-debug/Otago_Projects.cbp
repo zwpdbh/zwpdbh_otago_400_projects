@@ -82,10 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Parser.cpp">
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Vocabulary.cpp">
 			<Option target="cosc431_searchXML"/>
 		</Unit>
-		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Parser.h">
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Vocabulary.h">
 			<Option target="cosc431_searchXML"/>
 		</Unit>
 		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/main.cpp">

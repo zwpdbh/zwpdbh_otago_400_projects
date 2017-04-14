@@ -1,0 +1,13 @@
+*.xml
+*.cmake
+*.bin
+*.out
+*.o
+*.make
+Makefile
+*.marks
+*.log
+CMakeCache.txt
+Makefile2
+cmake.check_cache
+CXX.includecache

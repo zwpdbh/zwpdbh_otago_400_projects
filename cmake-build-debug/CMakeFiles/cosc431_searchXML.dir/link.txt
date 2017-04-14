@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cosc431_searchXML.dir/cosc431_searchXML/Parser.cpp.o CMakeFiles/cosc431_searchXML.dir/cosc431_searchXML/main.cpp.o  -o cosc431_searchXML 

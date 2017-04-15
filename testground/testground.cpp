@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "mylib.h"
-
+#include "Sales_data.h"
 using namespace std;
 
 /**
@@ -26,6 +26,12 @@ int main(int argc, char **argv) {
     int j[] = {1, 2};
     print(begin(j), end(j));
     print(j, end(j) - begin(j));
+
+
+    Sales_data data1("123456", 10, 20.0);
+    cout << endl;
+    print(cout, data1);
+
 
     return 0;
 }

@@ -126,8 +126,38 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Dictionary.cpp">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Dictionary.h">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Postings.cpp">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/Postings.h">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/TermEntry.cpp">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/TermEntry.h">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
 		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/main.cpp">
 			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/mylib.cpp">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/cosc431_searchXML/mylib.h">
+			<Option target="cosc431_searchXML"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/testground/Sales_data.cpp">
+			<Option target="testground"/>
+		</Unit>
+		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/testground/Sales_data.h">
+			<Option target="testground"/>
 		</Unit>
 		<Unit filename="/Users/zw/code/C++_Projects/Otago_Projects/testground/mylib.cpp">
 			<Option target="testground"/>

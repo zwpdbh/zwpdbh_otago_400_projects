@@ -37,3 +37,8 @@ void print(const int *arr, size_t size) {
         cout << arr[i] << " ";
     }
 }
+
+// return a REFERENCE to the shorter of two strings
+const string &shorterString(const string &s1, const string &s2) {
+    return s1.size() <= s2.size() ? s1 : s2;
+}
